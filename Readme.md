@@ -17,35 +17,18 @@
 ### 7. Customization
 
 
-<!-- ## Week2 - Convolutional Neural Networks
-- CNN layers
-- CNN architectures
-- Case studies (AlexNet, VGGNet, GoogLeNet, ResNet)
-- Transfer learning with pre-trained CNNs
-- Practice: Image classification (CIFAR)
+## Practice 2 - Convolutional Neural Networks 
 
-## Week3 - Recurrent Neural Networks
-- RNN architectures
-- RNN Training - Backpropagtion through time
-- Word embeddings
-- Text classification with RNNs 
-- Text generation with RNNs 
-- Time series forecasting
+### 1. Basic of CNN_1
 
-## Cumstomization 
-- Funtional API
-- Cumstomization of loss and metric
-- Several options for optimizer and training
-- Subclassing and GradientTape
-- Custom layers and training
+### 2. Basic of CNN_2
 
-## Kaggle Practice
-- Competition 1: Real or Not? NLP with Disaster Tweets
-- Competition 2: State Farm Distracted Driver Detection
+### 3. Transfer learning_1
 
-##  Advnaced Models
-- Sequence to sequence model
-- Neural machine translation with attention
-- Image captioning with visual attention
-- Variational Autoencoder
-- Deep Comvolutional Generative Adversarial Network -->
+### 4. Transfer learning_2
+
+### 5. Convolutional Variational Autoencoder  
+
+### 6. Image Captioning
+
+### 7. Generative Adversarial Networks
